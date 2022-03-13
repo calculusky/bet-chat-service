@@ -38,7 +38,7 @@ in the *.env.example* file.
 2. copy the contents on the *.env.example* and paste it on the newly
    created *.env* file
 3. edit the *.env* file to match the desired set up
-4. Launch the development server by running the command `yarn` `dev`
+4. Launch the development server by running the command `yarn dev` 
 
 #### Author
 
