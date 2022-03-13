@@ -1,0 +1,7 @@
+{
+    "ext": "js,ts,json",
+    "ignore": [
+        "**/*.test.ts"
+    ],
+    "exec": "ts-node --transpile-only index.ts"
+}
